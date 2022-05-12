@@ -7,9 +7,14 @@ public class HlavniProgram {
 
     public void main(String[] args) {
 
-        new Fish(50, 50);
-        // TODO: Sem vepiste svuj program
+//        Fish rybicka = new Fish(50, 50);
+//        Stone kamen = new Stone(200, 200);
+//
+//        for (int j = 0; j <4; j++) {
+//            rybicka.moveForward(300);
+//            rybicka.turnRight();}
+//
+
 
     }
-
 }
